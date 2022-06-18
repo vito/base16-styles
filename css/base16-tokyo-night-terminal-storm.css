@@ -1,0 +1,35 @@
+/* Tokyo Night Terminal Storm by Michaël Ball */
+
+.base00-bg { background-color: #24283B; }
+.base01-bg { background-color: #1A1B26; }
+.base02-bg { background-color: #343A52; }
+.base03-bg { background-color: #444B6A; }
+.base04-bg { background-color: #787C99; }
+.base05-bg { background-color: #787C99; }
+.base06-bg { background-color: #CBCCD1; }
+.base07-bg { background-color: #D5D6DB; }
+.base08-bg { background-color: #F7768E; }
+.base09-bg { background-color: #FF9E64; }
+.base0A-bg { background-color: #E0AF68; }
+.base0B-bg { background-color: #41A6B5; }
+.base0C-bg { background-color: #7DCFFF; }
+.base0D-bg { background-color: #7AA2F7; }
+.base0E-bg { background-color: #BB9AF7; }
+.base0F-bg { background-color: #D18616; }
+
+.base00 { color: #24283B; }
+.base01 { color: #1A1B26; }
+.base02 { color: #343A52; }
+.base03 { color: #444B6A; }
+.base04 { color: #787C99; }
+.base05 { color: #787C99; }
+.base06 { color: #CBCCD1; }
+.base07 { color: #D5D6DB; }
+.base08 { color: #F7768E; }
+.base09 { color: #FF9E64; }
+.base0A { color: #E0AF68; }
+.base0B { color: #41A6B5; }
+.base0C { color: #7DCFFF; }
+.base0D { color: #7AA2F7; }
+.base0E { color: #BB9AF7; }
+.base0F { color: #D18616; }
