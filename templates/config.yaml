@@ -4,6 +4,9 @@ css:
 css-variables: 
   extension: .css
   output: css-variables
+js-variables: 
+  extension: .js
+  output: js-variables
 less:
   extension: .less
   output: less
